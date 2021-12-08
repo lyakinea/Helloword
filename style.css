@@ -1,0 +1,39 @@
+.carre {
+  border-top: 2px solid gray ;
+  border-bottom: 2px solid gray;
+}
+.police {
+  font-family: Arial;
+}
+.rouge {
+  color: red;
+}
+.bleu {
+  color: blue;
+}
+.vert {
+  color: green;
+}
+.plice1 {
+  font-family: monospace;
+}
+.rouge1 {
+  background-color: red;
+}
+.bleu1 {
+  background-color: blue;
+}
+.vert1 {
+  background-color: green;
+}
+.logo {
+  color: blue ;
+  text-decoration:underline;
+}
+.logo1{
+    text-align: center;
+}
+footer img{
+    width: 30px;
+    height: 40px;
+}
